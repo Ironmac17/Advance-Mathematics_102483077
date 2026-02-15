@@ -2,10 +2,10 @@
 
 ## Probability Density Function Parameter Learning in Python
 
-**Course:** UCS654 -- Predictive Analytics using Statistics
-**Assignment:** Assignment-3
-**Author:** Nimish Agrawal
-**Roll Number:** 102483077
+**Course:** UCS654 -- Predictive Analytics using Statistics\
+**Assignment:** Assignment-3\
+**Author:** Nimish Agrawal\
+**Roll Number:** 102483077\
 
 ---
 
